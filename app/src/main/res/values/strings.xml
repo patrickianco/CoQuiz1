@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CoQuiz1</string>
+    <string-array name="androidVersions">
+        <item>Nougat</item>
+        <item>Marshmallow</item>
+        <item>Oreo</item>
+    </string-array>
+</resources>
